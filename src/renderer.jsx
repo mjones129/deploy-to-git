@@ -16,7 +16,7 @@ export default function (context) {
 	hooks.addFilter('siteInfoToolsItem', (menu) => [
 		...menu,
 		{
-			menuItem: 'Counter',
+			menuItem: 'Deploy To Git',
 			path: `/${addonID}`,
 			render: (props) => <Boilerplate {...props} />,
 		},
