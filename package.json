@@ -2,7 +2,7 @@
   "name": "deploy-to-git",
   "productName": "Deploy To Git",
   "version": "1.0.0",
-  "author": "Local Team",
+  "author": "Matt Jones",
   "keywords": [
     "local-addon"
   ],
