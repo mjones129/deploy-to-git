@@ -48,6 +48,10 @@ Clone the repository into the following directory depending on your platform:
 
 All files in `/src` will be transpiled to `/lib` using [TypeScript](https://www.typescriptlang.org/). Anything in `/lib` will be overwritten.
 
+### Once the plugin is built using the Local Add-On Generator, you'll have a new "Counter" section availiable under "Tools:
+![image](https://github.com/mjones129/deploy-to-git/assets/29353833/02c9ab9f-b92d-418d-aa64-2601cd452071)
+
+
 ### Development Workflow
 
 If you are looking for help getting started, you can consult [the documentation for the add-on generator](https://github.com/getflywheel/create-local-addon#next-steps).
