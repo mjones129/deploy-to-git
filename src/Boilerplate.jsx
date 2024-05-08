@@ -110,7 +110,7 @@ export default class Boilerplate extends Component {
 	render () {
 		return (
 			<div style={{ flex: '1', overflowY: 'auto', margin: '10px' }}>
-				<h2>Hello, World!</h2>
+				<h2>Deploy To Git</h2>
 				{this.renderInstructions()}
 				{this.renderCount()}
 				<div>
